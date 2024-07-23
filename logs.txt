@@ -1,0 +1,128 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://172.28.0.12:8501
+  External URL: http://34.142.241.247:8501
+
+/usr/local/lib/python3.10/dist-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing TextLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import TextLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import TextLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+/usr/local/lib/python3.10/dist-packages/langchain/__init__.py:30: UserWarning: Importing HuggingFaceHub from langchain root module is no longer supported. Please use langchain_community.llms.HuggingFaceHub instead.
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing HuggingFaceInstructEmbeddings from langchain.embeddings is deprecated. Please replace deprecated imports:
+
+>> from langchain.embeddings import HuggingFaceInstructEmbeddings
+
+with new imports of:
+
+>> from langchain_community.embeddings import HuggingFaceInstructEmbeddings
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+/usr/local/lib/python3.10/dist-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing FAISS from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import FAISS
+
+with new imports of:
+
+>> from langchain_community.vectorstores import FAISS
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+/usr/local/lib/python3.10/dist-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing TextLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import TextLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import TextLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+/usr/local/lib/python3.10/dist-packages/langchain/__init__.py:30: UserWarning: Importing HuggingFaceHub from langchain root module is no longer supported. Please use langchain_community.llms.HuggingFaceHub instead.
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing HuggingFaceInstructEmbeddings from langchain.embeddings is deprecated. Please replace deprecated imports:
+
+>> from langchain.embeddings import HuggingFaceInstructEmbeddings
+
+with new imports of:
+
+>> from langchain_community.embeddings import HuggingFaceInstructEmbeddings
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+/usr/local/lib/python3.10/dist-packages/langchain_core/_api/deprecation.py:139: LangChainDeprecationWarning: The class `HuggingFaceHub` was deprecated in LangChain 0.0.21 and will be removed in 0.3.0. An updated version of the class exists in the langchain-huggingface package and should be used instead. To use it run `pip install -U langchain-huggingface` and import as `from langchain_huggingface import HuggingFaceEndpoint`.
+  warn_deprecated(
+/usr/local/lib/python3.10/dist-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing TextLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import TextLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import TextLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+/usr/local/lib/python3.10/dist-packages/langchain/__init__.py:30: UserWarning: Importing HuggingFaceHub from langchain root module is no longer supported. Please use langchain_community.llms.HuggingFaceHub instead.
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing HuggingFaceInstructEmbeddings from langchain.embeddings is deprecated. Please replace deprecated imports:
+
+>> from langchain.embeddings import HuggingFaceInstructEmbeddings
+
+with new imports of:
+
+>> from langchain_community.embeddings import HuggingFaceInstructEmbeddings
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+/usr/local/lib/python3.10/dist-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing FAISS from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import FAISS
+
+with new imports of:
+
+>> from langchain_community.vectorstores import FAISS
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+/usr/local/lib/python3.10/dist-packages/langchain_core/_api/deprecation.py:139: LangChainDeprecationWarning: The method `Chain.__call__` was deprecated in langchain 0.1.0 and will be removed in 0.3.0. Use invoke instead.
+  warn_deprecated(
+/usr/local/lib/python3.10/dist-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing TextLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import TextLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import TextLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+/usr/local/lib/python3.10/dist-packages/langchain/__init__.py:30: UserWarning: Importing HuggingFaceHub from langchain root module is no longer supported. Please use langchain_community.llms.HuggingFaceHub instead.
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing HuggingFaceInstructEmbeddings from langchain.embeddings is deprecated. Please replace deprecated imports:
+
+>> from langchain.embeddings import HuggingFaceInstructEmbeddings
+
+with new imports of:
+
+>> from langchain_community.embeddings import HuggingFaceInstructEmbeddings
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+/usr/local/lib/python3.10/dist-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing FAISS from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import FAISS
+
+with new imports of:
+
+>> from langchain_community.vectorstores import FAISS
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+load INSTRUCTOR_Transformer
+max_seq_length  512
+load INSTRUCTOR_Transformer
+max_seq_length  512
+load INSTRUCTOR_Transformer
+max_seq_length  512
+  Stopping...
